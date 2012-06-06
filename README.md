@@ -1,9 +1,14 @@
 Requirements
 ================
 
-Ruby + gems: json, progressbar
+Ruby
 
 Gnuplot
+
+Installation
+================
+
+bundle
 
 Usage
 ================
